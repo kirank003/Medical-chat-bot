@@ -50,9 +50,9 @@ Initial webpage:
 
 ![image](https://user-images.githubusercontent.com/94063711/179363901-70c8a388-df4b-4dfe-834c-f0f9ab773d0f.png)
 
-Chatbox open:
 
-![image](https://user-images.githubusercontent.com/94063711/179363924-b2176cd1-b8ca-498d-8cf9-298687317f03.png)
+
+
 
 
 
